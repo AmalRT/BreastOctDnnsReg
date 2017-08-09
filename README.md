@@ -1,5 +1,5 @@
 # DNN_Reg
-![Graphical abstract of our method](https://raw.githubusercontent.com/AmalRT/DNN_Reg/master/GRAPHICAL_ABSTRACT.pdf)
+![Graphical abstract of our method](https://raw.githubusercontent.com/AmalRT/DNN_Reg/master/GRAPHICAL_ABSTRACT.png)
 # Project Title
 
 Intraoperative margin assessment of human breast tissue in optical coherence tomography images using deep neural networks 
