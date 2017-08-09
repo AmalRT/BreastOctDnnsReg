@@ -82,5 +82,5 @@ This software package is freely available for research purposes. Please check th
 
 ## Notes 
 
-* The images used for our experiments are real patient images, and thus, for ethic issues, they are not provided with this project. We however provide our trained models. 
+* The images used for our experiments are real patient images, and thus, for ethic issues, they are not provided with this project. We however provide our trained models (See Models: under this directory x-y designates the models obtained in our experiments when we train on sample x and test on sample y. Refer to the paper for more details about these data splits). 
 
